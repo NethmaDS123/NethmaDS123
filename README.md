@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nethma De Silva!
 
-I’m a passionate **Full Stack Developer** and **Computer Science** final year student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web Development**.
+I’m a passionate **Software Engineer** and **Computer Science** final year student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web Development**.
 
 ---
 
