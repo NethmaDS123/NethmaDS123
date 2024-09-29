@@ -1,19 +1,15 @@
 # Hi there 👋, I'm Nethma De Silva!
 
-I’m a passionate **Full Stack Developer** and **Computer Science** student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web Development**.
-
-![One Piece](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
+I’m a passionate **Full Stack Developer** and **Computer Science** final year student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web Development**.
 
 ---
 
 ## 🚀 About Me
 
 - 🏫 I'm currently studying **Computer Science** at the University of Westminster, expected to graduate in **July 2025**.
-- 👨‍💻 I have experience building full-stack applications and AI-driven systems through internships and personal projects.
+- 👨‍💻 I have experience building full-stack applications and AI-driven systems through personal and team projects.
 - 🌱 I’m currently working on **PingPals**, an event notification app, leveraging **Spring Boot**, **MongoDB**, and **Flutter**.
-- 🧑‍💻 In my previous role at **Bynery**, I developed complex web applications, including interactive visualizations for climate change data.
-- 🧠 I’m passionate about **Wildlife Conservation**, having led the development of **Wildlife Connect**, a social media app that uses **Machine Learning** to identify species.
-
+- 🧑‍💻 In my previous role at a startup **Bynery**, I developed complex web applications for client projects.
 ---
 
 ## 💻 Tech Stack & Skills
@@ -97,15 +93,12 @@ I’m a passionate **Full Stack Developer** and **Computer Science** student wit
 ### **In Progress: PingPals - Event Notification App**
 
 - **PingPals** simplifies event creation and management by notifying selected friends with a single action. Developed with **Flutter**, **Spring Boot**, and **MongoDB**.
-- Integrated real-time notifications using **Firebase**, and worked on building a responsive UI for mobile users.
+- It is a  mobile application aimed at simplifying event creation and management by allowing users to notify selected friends of events with a single action.
+- Leveraging Firebase for real-time data synchronization, ensuring seamless notifications and status updates across devices.
+- Developing a backend system using Spring Boot and MongoDB to handle user authentication, friend list management, and event scheduling, ensuring secure and efficient data handling.
+- Implementing a notification system that allows users to send quick responses, track attendees, and receive real-time event status updates.
+- Creating an intuitive UI in Flutter, focusing on responsiveness and ease of use to deliver a smooth user experience across different devices.
 
----
-
-## 🔥 Recent Projects
-
-- **[Wildlife Connect](https://github.com/NethmaDS123/WildLifeConnect)**: A machine-learning-powered wildlife identification app for conservation efforts.
-- **[Wildlife Connect Backend](https://github.com/NethmaDS123/WildLifeConnectBackend)**: The backend infrastructure for Wildlife Connect.
-- **PingPals**: A mobile app under development to streamline event notifications and scheduling for friend groups.
 
 ---
 
