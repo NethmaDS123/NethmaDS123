@@ -2,6 +2,8 @@
 
 I’m a passionate **Full Stack Developer** and **Computer Science** student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web Development**.
 
+![One Piece](https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif)
+
 ---
 
 ## 🚀 About Me
@@ -17,7 +19,6 @@ I’m a passionate **Full Stack Developer** and **Computer Science** student wit
 ## 💻 Tech Stack & Skills
 
 ### **Programming Languages:**
-
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -25,39 +26,47 @@ I’m a passionate **Full Stack Developer** and **Computer Science** student wit
 - ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=flat&logo=sql&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=sqlite&logoColor=white)
 
-### **Frameworks & Libraries:**
-
+### **Frontend:**
 - ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-- ![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
+- ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+- ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+
+### **Backend:**
+- ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+- ![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=flat&logo=express&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 - ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
+
+### **Mobile Development:**
 - ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 - ![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
 
 ### **Databases:**
-
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 - ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-### **Tools & Platforms:**
-
+### **Tools & Technologies:**
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-- ![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+- ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 - ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white)
-- ![Neon](https://img.shields.io/badge/Neon-%2360D9F8.svg?style=flat&logo=neovim&logoColor=white)
+- ![Neon](https://img.shields.io/badge/Neon-%231A73E8.svg?style=flat&logo=neon&logoColor=white)
 - ![Render](https://img.shields.io/badge/Render-%2300BFA5.svg?style=flat&logo=render&logoColor=white)
 - ![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Nethma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NethmaDS123&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NethmaDS123&layout=compact&theme=radical)
 
 ---
 
@@ -75,27 +84,20 @@ I’m a passionate **Full Stack Developer** and **Computer Science** student wit
 
 ### **Full Stack Developer @ Bynery (April 2024 - September 2024)**
 
-- Created the official website for Bynery using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Spline**.
-- Managed and implemented advanced animations to enhance user experience.
-- Integrated temperature change data of coral reefs onto an interactive Maldives map using **HTML**, **CSS**, **JavaScript**, **Flask (Python)**, **PostgreSQL**, and **Neon**.
-- Cleaned and processed CSV data using **Pandas** to ensure accurate data representation.
-- Developed an AI-driven backend system using **FastAPI** and **CrewAI** to automatically generate educational flashcards and quizzes.
-
+- Developed Bynery’s official website using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Spline** to create smooth, interactive animations.
+- Integrated climate data visualizations for coral reef temperature changes using **HTML**, **CSS**, **JavaScript**, **Flask (Python)**, and **PostgreSQL**.
+- Created an AI-powered backend using **FastAPI** and **CrewAI** to automate the generation of educational content, significantly reducing manual efforts.
+  
 ### **Lead Developer @ Wildlife Connect**
 
-- Led a team to develop a social media mobile application using **Flutter** and **Dart** for wildlife conservation.
-- Implemented **Machine Learning** to identify wildlife species from user-uploaded images with a 90% accuracy rate.
-- Created the backend using **Node.js**, **Express.js**, **MongoDB**, and **AWS S3**.
-- Set up authentication and password encryption using **bcrypt.js**.
-- Deployed the app on the Play Store for test users and hosted the backend on **Google Cloud Run** and **Render**.
+- Spearheaded the development of a **wildlife conservation app** leveraging **machine learning** to classify species with a 90% accuracy rate.
+- Developed the app using **Flutter** for the frontend, with a backend in **Node.js**, **Express.js**, **MongoDB**, and hosted on **Google Cloud Run**.
+- Implemented user authentication with **bcrypt.js** and set up a CI/CD pipeline for smooth deployment on the Play Store.
 
 ### **In Progress: PingPals - Event Notification App**
 
-- Designing and building a mobile application aimed at simplifying event creation and management.
-- Leveraging **Firebase** for real-time data synchronization.
-- Developing a backend system using **Spring Boot** and **MongoDB**.
-- Implementing a notification system for real-time event status updates.
-- Creating an intuitive UI in **Flutter** focusing on responsiveness and ease of use.
+- **PingPals** simplifies event creation and management by notifying selected friends with a single action. Developed with **Flutter**, **Spring Boot**, and **MongoDB**.
+- Integrated real-time notifications using **Firebase**, and worked on building a responsive UI for mobile users.
 
 ---
 
@@ -109,7 +111,7 @@ I’m a passionate **Full Stack Developer** and **Computer Science** student wit
 
 ## 📫 How to Reach Me
 
-- **Email**: [dsnethma@gmail.com](mailto:dsnethma@gmail.com)
+- **Email**: dsnethma@gmail.com
 - **LinkedIn**: [linkedin.com/in/nethma-de-silva](http://www.linkedin.com/in/nethma-de-silva-b34727212)
 - **GitHub**: [github.com/NethmaDS123](https://github.com/NethmaDS123)
 
