@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nethma De Silva!
 
-I’m a passionate **Software Engineer** and **Computer Science** final year student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web Development**.
+I’m a passionate **Software Engineer** and **Computer Science** final year student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web/App Development**.
 
 ---
 
@@ -9,7 +9,6 @@ I’m a passionate **Software Engineer** and **Computer Science** final year stu
 - 🏫 I'm currently studying **Computer Science** at the University of Westminster, expected to graduate in **July 2025**.
 - 👨‍💻 I have experience building full-stack applications and AI-driven systems through personal and team projects.
 - 🌱 I’m currently working on **PingPals**, an event notification app, leveraging **Spring Boot**, **MongoDB**, and **Flutter**.
-- 🧑‍💻 In my previous role at a startup **Bynery**, I developed complex web applications for client projects.
 
 ---
 
@@ -31,8 +30,6 @@ I’m a passionate **Software Engineer** and **Computer Science** final year stu
 
 ## 📊 GitHub Stats
 
-![Nethma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NethmaDS123&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NethmaDS123&layout=compact&theme=radical&count_private=true)
 
 ---
@@ -44,31 +41,6 @@ I’m a passionate **Software Engineer** and **Computer Science** final year stu
 - **Udemy - The Complete Flutter Bootcamp**
 - **Cambridge - Advanced Levels**
 - **Cambridge - Ordinary Levels**
-
----
-
-## 💼 Professional Experience
-
-### **Full Stack Developer @ Bynery (April 2024 - September 2024)**
-
-- Developed Bynery’s official website using **Next.js**, **TypeScript**, **Tailwind CSS**, and **Spline** to create smooth, interactive animations.
-- Integrated climate data visualizations for coral reef temperature changes using **HTML**, **CSS**, **JavaScript**, **Flask (Python)**, and **PostgreSQL**.
-- Created an AI-powered backend using **FastAPI** and **CrewAI** to automate the generation of educational content, significantly reducing manual efforts.
-  
-### **Lead Developer @ Wildlife Connect**
-
-- Spearheaded the development of a **wildlife conservation app** leveraging **machine learning** to classify species with a 90% accuracy rate.
-- Developed the app using **Flutter** for the frontend, with a backend in **Node.js**, **Express.js**, **MongoDB**, and hosted on **Google Cloud Run**.
-- Implemented user authentication with **bcrypt.js** and set up a CI/CD pipeline for smooth deployment on the Play Store.
-
-### **In Progress: PingPals - Event Notification App**
-
-- **PingPals** simplifies event creation and management by notifying selected friends with a single action. Developed with **Flutter**, **Spring Boot**, and **MongoDB**.
-- It is a  mobile application aimed at simplifying event creation and management by allowing users to notify selected friends of events with a single action.
-- Leveraging Firebase for real-time data synchronization, ensuring seamless notifications and status updates across devices.
-- Developing a backend system using Spring Boot and MongoDB to handle user authentication, friend list management, and event scheduling, ensuring secure and efficient data handling.
-- Implementing a notification system that allows users to send quick responses, track attendees, and receive real-time event status updates.
-- Creating an intuitive UI in Flutter, focusing on responsiveness and ease of use to deliver a smooth user experience across different devices.
 
 ---
 
