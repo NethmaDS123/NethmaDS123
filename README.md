@@ -1,14 +1,15 @@
 # Hi there 👋, I'm Nethma De Silva!
 
-I’m a passionate **Software Engineer** and **Computer Science** final year student with a knack for building innovative and impactful solutions. Currently pursuing my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web/App Development**.
+I’m a passionate **Software Engineering** and **Computer Science** soon to be graduate with a knack for building innovative and impactful solutions. Currently about to graduate with my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web/App Development**.
 
 ---
 
 ## 🚀 About Me
 
-- 🏫 I'm currently studying **Computer Science** at the University of Westminster, expected to graduate in **July 2025**.
-- 👨‍💻 I have experience building full-stack applications and AI-driven systems through personal and team projects.
-- 🌱 I’m currently working on **PingPals**, an event notification app, leveraging **Spring Boot**, **MongoDB**, and **Flutter**.
+- 🏫 I'm set to graduate in **July 2025**.
+- 👨‍💻 I have experience building Full-stack applications, Mobile, Web, DevOps and AI-driven systems through personal and team projects.
+- 🌱 I’m currently working on my Startup **Elevate**, an AI driven career development platform for Software Engineers using **NextJS**, **Typescript**, **Tailwind**, **FASTAPI** and **MongoDB**.
+- 🌱 I’m also currently working on **PingPals**, an event organisation and notification app, leveraging **Spring Boot**, **MongoDB**, and **Flutter**.
 
 ---
 
@@ -25,22 +26,6 @@ I’m a passionate **Software Engineer** and **Computer Science** final year stu
 
 ### **Tools & Technologies:**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-%231A73E8.svg?style=flat&logo=neon&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2300BFA5.svg?style=flat&logo=render&logoColor=white) ![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-%23000000.svg?style=flat&logo=xcode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NethmaDS123&layout=compact&theme=radical&count_private=true)
-
----
-
-## 🏆 Certifications
-
-- **Udemy - Master the Coding Interview: Data Structures and Algorithms**
-- **Udemy - The Complete 2023 Web Development Bootcamp**
-- **Udemy - The Complete Flutter Bootcamp**
-- **Cambridge - Advanced Levels**
-- **Cambridge - Ordinary Levels**
 
 ---
 
