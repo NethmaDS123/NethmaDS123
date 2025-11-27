@@ -6,10 +6,10 @@ I’m a passionate **Software Engineering** and **Computer Science** soon to be 
 
 ## 🚀 About Me
 
-- 🏫 I'm set to graduate in **July 2025**.
+- 🏫 I graduated in **July 2025** with a First Class in Computer Science.
 - 👨‍💻 I have experience building Full-stack applications, Mobile, Web, DevOps and AI-driven systems through personal and team projects.
-- 🌱 I’m currently working on my Startup **Elevate**, an AI driven career development platform for Software Engineers using **NextJS**, **Typescript**, **Tailwind**, **FASTAPI** and **MongoDB**.
-- 🌱 I’m also currently working on **PingPals**, an event organisation and notification app, leveraging **Spring Boot**, **MongoDB**, and **Flutter**.
+- 🌱 I’m currently working on my Startup **Elvte**, an AI driven career development platform for Software Engineers using **NextJS**, **Typescript**, **Tailwind**, **FASTAPI** and **MongoDB**.
+
 
 ---
 
