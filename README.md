@@ -1,37 +1,83 @@
-# Hi there 👋, I'm Nethma De Silva!
+# Hi there, I'm Nethma De Silva!
 
-I’m a passionate **Software Engineering** and **Computer Science** soon to be graduate with a knack for building innovative and impactful solutions. Currently about to graduate with my Bachelor's at the **University of Westminster**, I'm working on projects that involve cutting-edge technologies like **Machine Learning**, **AI**, and **Web/App Development**.
-
----
-
-## 🚀 About Me
-
-- 🏫 I graduated in **July 2025** with a First Class in Computer Science.
-- 👨‍💻 I have experience building Full-stack applications, Mobile, Web, DevOps and AI-driven systems through personal and team projects.
-- 🌱 I’m currently working on my Startup **Elvte**, an AI driven career development platform for Software Engineers using **NextJS**, **Typescript**, **Tailwind**, **FASTAPI** and **MongoDB**.
-
+First Class Honours Computer Science graduate and Full-Stack Software Engineer experienced in building production SaaS platforms, scalable backend architectures, and AI-driven applications.
 
 ---
 
-## 💻 Tech Stack & Skills
+### About Me
 
-### **Programming Languages:**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=sqlite&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
-
-### **Frameworks and Libraries:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=flat&logo=react&logoColor=black) ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=flat&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) ![Java Swing](https://img.shields.io/badge/Java_Swing-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-
-### **Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-
-### **Tools & Technologies:**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipse&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-%231A73E8.svg?style=flat&logo=neon&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2300BFA5.svg?style=flat&logo=render&logoColor=white) ![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![XCode](https://img.shields.io/badge/XCode-%23000000.svg?style=flat&logo=xcode&logoColor=white)
+- **Education:** First Class Honours in Computer Science, University of Westminster (July 2025)
+- **Current Role:** Software Engineer (Contract) at JRC Global — building production-grade inventory systems & AI invoice ingestion pipelines
+- **Featured Project:** Founder & Engineer behind **ELVTE**, an AI career platform that cut LLM costs by 93% and database latency from 500ms to 50ms
+- **Hackathons:** 3rd Place Winner at a Microsoft-hosted Hackathon (Dec 2024)
+- **Core Focus:** Scalable Backend Architecture, Microservices, LLM Orchestration & Full-Stack Web Applications
 
 ---
 
-## 📫 How to Reach Me
+### Tech Stack & Skills
 
-- **Email**: dsnethma@gmail.com
-- **LinkedIn**: [linkedin.com/in/nethma-de-silva](http://www.linkedin.com/in/nethma-de-silva-b34727212)
-- **GitHub**: [github.com/NethmaDS123](https://github.com/NethmaDS123)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Backend Frameworks & Architecture**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+**Frontend Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+**Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Machine Learning**
+![OpenAI / LLMs](https://img.shields.io/badge/LLMs_%26_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F79A3E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Cloud, DevOps & Observability**
+![AWS](https://img.shields.io/badge/AWS_(S3)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+### Featured Projects & Work
+
+#### **JRC Global** | *Software Engineer (Contract)* `11/2025 - Present`
+- Architected a multi-tenant inventory and financial platform on PostgreSQL (Supabase) and Node.js/TypeScript, replacing legacy Excel workflows and integrating Sage Accounting API.
+- Built automated AI document ingestion pipelines using OpenAI API & PDF parsing across 15 supplier invoice formats, reducing manual data entry by **80–90%**.
+- Implemented role-based access control (RBAC), keyset pagination, and Grafana monitoring for end-to-end production observability.
+
+#### **ELVTE** | *AI SaaS Career Platform* `10/2024 - 02/2026`
+- Built an AI career development platform using Next.js, FastAPI, MongoDB, and Redis; secured £500 funding from the Ignite Fund.
+- Re-engineered AI pipelines from CrewAI to structured prompting, cutting LLM inference costs by **93%** ($0.15 → $0.01 per request).
+- Optimized backend architecture with load balancing & Redis caching, dropping database load by **90%** and latency from **500ms → 50ms**.
+
+#### **Wildlife Connect** | *Conservation & Social App* `10/2023 - 04/2024`
+- Led a team of 5 to build a cross-platform social app using Flutter, Node.js, Express, and MongoDB with 25+ beta users.
+- Integrated a TensorFlow model achieving 90% accuracy in species identification, containerized via Docker/Kubernetes, and deployed to Google Cloud Run.
+
+---
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://nethmadesilva.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsnethma@gmail.com)
